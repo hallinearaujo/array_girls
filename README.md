@@ -1,2 +1,3 @@
 # array_girls
-Rpositório de git para o Array Gilrs
+Repositório de git para o Array Gilrs
+nesse arquivo posso colocar o enunciado da questão
